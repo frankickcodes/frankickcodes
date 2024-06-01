@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**frankickcodes/frankickcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rishi Kartik Raja, a passionate Full Stack Engineer and a BA Program student from India. I have a keen interest in developing robust and scalable web applications. My journey in the tech world is driven by a relentless curiosity and a commitment to continuous learning and improvement.
 
-Here are some ideas to get you started:
+Education:-
+BA Program (Ongoing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:-
+Frontend: HTML, CSS, JavaScript
+Backend: Node.js, C++
+Version Control: Git, GitHub
+
+Web Development:-
+Open Source Contribution
+Problem Solving
+Continuous Learning
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
